@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**nonyebabe/nonyebabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**i am ezim-ochi nonye i am currently working on data analytical project...
 
 Here are some ideas to get you started:
 
